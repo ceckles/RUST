@@ -1,0 +1,1 @@
+/home/chad/CODE/RUST/rustMongerAdventures/target/debug/rustMongerAdventures: /home/chad/CODE/RUST/rustMongerAdventures/src/character/character.rs /home/chad/CODE/RUST/rustMongerAdventures/src/character/mod.rs /home/chad/CODE/RUST/rustMongerAdventures/src/main.rs
